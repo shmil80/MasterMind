@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Master Mind</string>
+    <string name="allowDuplicate">Autoriser double</string>
+    <string name="allowDuplicateSummary">Autoriser les couleurs en double</string>
+    <string name="option_length">Nombre de points</string>
+    <string name="option_posibilities">Nombre de couleurs</string>
+    <string name="title_activity_settings">Préférence</string>
+    <string name="settings">Préférence</string>
+    <string name="guess">deviner</string>
+    <string name="calculating">"calcule… "</string>
+    <string name="pleaseWait">veuillez patienter</string>
+    <string name="error_in_guess">une erreur s\'est produite. ne peut pas deviner</string>
+    <string name="initialising">Initalisant…</string>
+    <string name="restart">recommencer</string>
+    <string name="allowEmptySummary">Autoriser un point vide</string>
+    <string name="ok">OK</string>
+    <string name="preferenceGameTitle">Option de jeu</string>
+    <string name="allowEmpty">Autoriser vide</string>
+    <string name="new_game">recommencer</string>
+    <string name="allow_music">Son</string>
+    <string name="view_settings_title">Apparence</string>
+    <string name="allow_music_text_off">OFF</string>
+    <string name="allow_music_text_on">ON</string>
+    <string name="allow_empty_text_false">Non</string>
+    <string name="allow_empty_text_true">Oui</string>
+    <string name="allow_duplicate_text_false">Non</string>
+    <string name="allow_duplicate_text_true">Oui</string>
+</resources>

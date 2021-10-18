@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorStroke">#000</color>
+    <color name="colorOption0">#F00</color>
+    <color name="colorOption1">#0F0</color>
+    <color name="colorOption2">#00F</color>
+    <color name="colorOption3">#0FF</color>
+    <color name="colorOption4">#FF0</color>
+    <color name="colorOption5">#F0F</color>
+    <color name="colorOption6">#800</color>
+    <color name="colorOption7">#080</color>
+    <color name="colorOption8">#008</color>
+    <color name="colorOption9">#088</color>
+    <color name="colorOption10">#880</color>
+    <color name="colorOption11">#808</color>
+    <color name="colorOption12">#888</color>
+    <color name="colorOption13">#f9a825</color>
+    <color name="colorOption14">#60d7c8</color>
+    <color name="colorOption15">#69b658</color>
+    <color name="colorTextResultExacts">#000</color>
+    <color name="colorTextResultRights">#888</color>
+    <color name="colorBackgroundSelected">#ffdada</color>
+    <color name="colorPallete">#e7fbff</color>
+    <color name="colorRightAnswer">#fff</color>
+    <color name="colorExactAnswer">#000</color>
+    <color name="colorBackGround">#ffdec3</color>
+    <color name="colorBackGroundWin">#cdefcc</color>
+    <color name="backgroung_button_1">#7EC9A0</color>
+    <color name="backgroung_button_2">#afc9bb</color>
+    <color name="stroke_unpressed_button">#FFF</color>
+    <color name="stroke_pressed_button">#6A9BC5</color>
+    <color name="button_submit_background_margin">#e7fbff</color>
+</resources>

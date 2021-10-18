@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/preferenceGameTitle">
+        <SwitchPreference
+            android:defaultValue="@string/allow_duplicate_default"
+            android:entries="@array/allowDuplicateText"
+            android:entryValues="@array/bool_values"
+            android:key="allowDuplicate"
+            android:summary="@string/allowDuplicateSummary"
+            android:title="@string/allowDuplicate" />
+        <SwitchPreference
+            android:defaultValue="@string/allow_empty_default"
+            android:entries="@array/allowEmptyText"
+            android:entryValues="@array/bool_values"
+            android:key="allowEmpty"
+            android:summary="@string/allowEmptySummary"
+            android:title="@string/allowEmpty" />
+        <ListPreference
+            android:defaultValue="@string/option_length_default"
+            android:entries="@array/option_length_texts"
+            android:entryValues="@array/option_length_values"
+            android:key="optionLength"
+            android:summary="%s"
+            android:title="@string/option_length" />
+        <ListPreference
+            android:defaultValue="@string/option_posibilities_default"
+            android:entries="@array/option_posibilities_texts"
+            android:entryValues="@array/option_posibilities_texts"
+            android:key="optionPosibilities"
+            android:summary="%s"
+            android:title="@string/option_posibilities" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/view_settings_title">
+        <SwitchPreference
+            android:defaultValue="@string/allow_music_default"
+            android:entries="@array/allow_music_text"
+            android:entryValues="@array/bool_values"
+            android:key="allow_music"
+            android:title="@string/allow_music" />
+    </PreferenceCategory>
+</PreferenceScreen>

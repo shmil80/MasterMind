@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בול פגיעה</string>
+    <string name="allowDuplicate">אפשר כפולים</string>
+    <string name="allowDuplicateSummary">אפשר כמה אפשרויות מאותו צבע</string>
+    <string name="option_length">מספר הכדורים</string>
+    <string name="option_posibilities">מספר הצבעים</string>
+    <string name="title_activity_settings">אפשרויות</string>
+    <string name="settings">אפשרויות</string>
+    <string name="guess">ניחוש</string>
+    <string name="calculating">מחשב...</string>
+    <string name="pleaseWait">אנא המתן</string>
+    <string name="error_in_guess">אירעה שגיאה, אין אפשרות לנחש</string>
+    <string name="initialising">מאתחל...</string>
+    <string name="restart">משחק חדש</string>
+    <string name="allowEmptySummary">אפשר כדור אחד ריק</string>
+    <string name="allowEmpty">אפשר ריק</string>
+    <string name="new_game">חדש</string>
+    <string name="ok">אישור</string>
+    <string name="preferenceGameTitle">אפשרויות משחק</string>
+    <string name="view_settings_title">תצוגה</string>
+    <string name="allow_music">קול</string>
+    <string name="allow_music_text_off">ללא קול</string>
+    <string name="allow_music_text_on">קול</string>
+    <string name="allow_empty_text_false">ללא ריקים</string>
+    <string name="allow_empty_text_true">עם ריקים</string>
+    <string name="allow_duplicate_text_false">ללא כפולים</string>
+    <string name="allow_duplicate_text_true">עם כפולים</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="option_length_values">
+        <item>2</item>
+        <item>3</item>
+        <item>@string/option_length_value_1</item>
+        <item>@string/option_length_value_2</item>
+        <item>@string/option_length_value_3</item>
+        <item>@string/option_length_value_4</item>
+    </string-array>
+    <string-array name="option_length_texts">
+        <item>2</item>
+        <item>3</item>
+        <item>@string/option_length_text_1</item>
+        <item>@string/option_length_text_2</item>
+        <item>@string/option_length_text_3</item>
+        <item>@string/option_length_text_4</item>
+    </string-array>
+    <string-array name="option_posibilities_texts">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>@string/option_possibilities_text_1</item>
+        <item>@string/option_possibilities_text_2</item>
+        <item>@string/option_possibilities_text_3</item>
+        <item>@string/option_possibilities_text_4</item>
+        <item>@string/option_possibilities_text_5</item>
+    </string-array>
+    <string-array name="option_posibilities_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>@string/option_possibilities_value_1</item>
+        <item>@string/option_possibilities_value_2</item>
+        <item>@string/option_possibilities_value_3</item>
+        <item>@string/option_possibilities_value_4</item>
+        <item>@string/option_possibilities_value_5</item>
+    </string-array>
+</resources>

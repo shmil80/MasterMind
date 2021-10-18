@@ -1,0 +1,27 @@
+<resources>
+    <string name="option_posibilities_default" translatable="false">8</string>
+    <string name="option_length_default" translatable="false">4</string>
+    <string name="allow_duplicate_default" translatable="false">false</string>
+    <string name="allow_empty_default" translatable="false">false</string>
+    <string name="allow_music_default" translatable="false">true</string>
+    <string name="option_length_value_1" translatable="false">4</string>
+    <string name="option_length_value_2" translatable="false">5</string>
+    <string name="option_length_value_3" translatable="false">6</string>
+    <string name="option_length_value_4" translatable="false">7</string>
+    <string name="option_length_text_1" translatable="false">4</string>
+    <string name="option_length_text_2" translatable="false">5</string>
+    <string name="option_length_text_3" translatable="false">6</string>
+    <string name="option_length_text_4" translatable="false">7</string>
+    <string name="option_possibilities_value_1" translatable="false">6</string>
+    <string name="option_possibilities_value_2" translatable="false">7</string>
+    <string name="option_possibilities_value_3" translatable="false">8</string>
+    <string name="option_possibilities_value_4" translatable="false">9</string>
+    <string name="option_possibilities_value_5" translatable="false">10</string>
+    <string name="option_possibilities_text_1" translatable="false">6</string>
+    <string name="option_possibilities_text_2" translatable="false">7</string>
+    <string name="option_possibilities_text_3" translatable="false">8</string>
+    <string name="option_possibilities_text_4" translatable="false">9</string>
+    <string name="option_possibilities_text_5" translatable="false">10</string>
+    <string name="bool_value_false" translatable="false">0</string>
+    <string name="bool_value_true" translatable="false">1</string>
+</resources>

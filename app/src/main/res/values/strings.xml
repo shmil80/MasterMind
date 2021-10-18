@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Master Mind</string>
+    <string name="ok">OK</string>
+    <string name="preferenceGameTitle">Game Setting</string>
+    <string name="allowDuplicate">Allow duplicate</string>
+    <string name="allowDuplicateSummary">Allow duplicate colors</string>
+    <string name="option_length">Number of balls</string>
+    <string name="option_posibilities">Number of colors</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings">settings</string>
+    <string name="guess">guess</string>
+    <string name="calculating">calculating…</string>
+    <string name="pleaseWait">please wait</string>
+    <string name="error_in_guess">an error happened. cannot guess</string>
+    <string name="initialising">Initalizing…</string>
+    <string name="restart">restart</string>
+    <string name="allowEmptySummary">Allow one empty ball</string>
+    <string name="allowEmpty">Allow empty</string>
+    <string name="new_game">new</string>
+    <string name="view_settings_title">View</string>
+    <string name="allow_music">Sound</string>
+    <string name="allow_music_text_off">OFF</string>
+    <string name="allow_music_text_on">ON</string>
+    <string name="allow_empty_text_false">No empty</string>
+    <string name="allow_empty_text_true">Allow empty</string>
+    <string name="allow_duplicate_text_false">No duplicate</string>
+    <string name="allow_duplicate_text_true">Allow duplicates</string>
+</resources>

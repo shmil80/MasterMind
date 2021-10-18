@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="option_length_values">
+        <item>@string/option_length_value_1</item>
+        <item>@string/option_length_value_2</item>
+        <item>@string/option_length_value_3</item>
+        <item>@string/option_length_value_4</item>
+    </string-array>
+    <string-array name="option_length_texts">
+        <item>@string/option_length_text_1</item>
+        <item>@string/option_length_text_2</item>
+        <item>@string/option_length_text_3</item>
+        <item>@string/option_length_text_4</item>
+    </string-array>
+    <string-array name="option_posibilities_texts">
+        <item>@string/option_possibilities_text_1</item>
+        <item>@string/option_possibilities_text_2</item>
+        <item>@string/option_possibilities_text_3</item>
+        <item>@string/option_possibilities_text_4</item>
+        <item>@string/option_possibilities_text_5</item>
+    </string-array>
+    <string-array name="option_posibilities_values">
+        <item>@string/option_possibilities_value_1</item>
+        <item>@string/option_possibilities_value_2</item>
+        <item>@string/option_possibilities_value_3</item>
+        <item>@string/option_possibilities_value_4</item>
+        <item>@string/option_possibilities_value_5</item>
+    </string-array>
+    <string-array name="bool_values">
+        <item>@string/bool_value_false</item>
+        <item>@string/bool_value_true</item>
+    </string-array>
+    <string-array name="allowDuplicateText">
+        <item>@string/allow_duplicate_text_false</item>
+        <item>@string/allow_duplicate_text_true</item>
+    </string-array>
+    <string-array name="allowEmptyText">
+        <item>@string/allow_empty_text_false</item>
+        <item>@string/allow_empty_text_true</item>
+    </string-array>
+    <string-array name="allow_music_text">
+        <item>@string/allow_music_text_off</item>
+        <item>@string/allow_music_text_on</item>
+    </string-array>
+</resources>
